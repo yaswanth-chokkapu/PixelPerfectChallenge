@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import VideoPlay from "./components/Videoplay";
 import HeroSection from "./components/models";
 import Icons from "./components/Icons";
+import Template from "./components/Template";
 
 
 
@@ -18,6 +19,7 @@ export const App = () => {
       <BrandsSection/>
       <HeroSection />
      <Icons />
+       <Template />
       <ComparisonSection/>
 
 
