@@ -4,6 +4,8 @@ import Footer from "./components/Footer";
 import Hero from "./components/Header";
 import Navbar from "./components/Navbar";
 import VideoPlay from "./components/Videoplay";
+import HeroSection from "./components/models";
+
 
 export const App = () => {
   return (
@@ -12,7 +14,9 @@ export const App = () => {
       <Hero />
       <VideoPlay/>
       <BrandsSection/>
+      <HeroSection />
       <ComparisonSection/>
+
 
       <Footer/>
     </div>

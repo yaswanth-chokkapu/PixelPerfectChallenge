@@ -10,7 +10,7 @@ const VideoPlay = () => {
         loop
         muted
         playsInline
-        className="w-[80%] sm:w-[75%]  max-h-[600px] object-cover"
+        className="w-[80%] sm:w-[85%]  max-h-[600px] object-cover"
       />
     </div>
   );
