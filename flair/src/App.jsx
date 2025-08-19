@@ -5,6 +5,8 @@ import Hero from "./components/Header";
 import Navbar from "./components/Navbar";
 import VideoPlay from "./components/Videoplay";
 import HeroSection from "./components/models";
+import Icons from "./components/Icons";
+
 
 
 export const App = () => {
@@ -15,7 +17,9 @@ export const App = () => {
       <VideoPlay/>
       <BrandsSection/>
       <HeroSection />
+     <Icons />
       <ComparisonSection/>
+
 
 
       <Footer/>
