@@ -8,7 +8,7 @@ import HeroSection from "./components/models";
 import Icons from "./components/Icons";
 import Template from "./components/Template";
 import Template2 from "./components/Template2";
-
+import Section from "./components/section";
 
 
 
@@ -23,6 +23,8 @@ export const App = () => {
      <Icons />
        <Template />
             <Template2 />
+      <Section />
+
       <ComparisonSection/>
 
 
