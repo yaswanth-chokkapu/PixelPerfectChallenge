@@ -7,6 +7,8 @@ import VideoPlay from "./components/Videoplay";
 import HeroSection from "./components/models";
 import Icons from "./components/Icons";
 import Template from "./components/Template";
+import Template2 from "./components/Template2";
+
 
 
 
@@ -20,6 +22,7 @@ export const App = () => {
       <HeroSection />
      <Icons />
        <Template />
+            <Template2 />
       <ComparisonSection/>
 
 
