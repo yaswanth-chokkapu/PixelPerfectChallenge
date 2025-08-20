@@ -36,7 +36,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pixelperfect-challenge.git
+git clone https://github.com/yaswanth-chokkapu/pixelperfect-challenge.git
 
 # Navigate to the project directory
 cd pixelperfect-challenge
