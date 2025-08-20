@@ -28,9 +28,6 @@ It showcases **feature comparisons**, **AI-powered workflows**, and **creative p
 
 ---
 
-## 📷 Screenshots
-### Desktop View
-![Banner](https://github.com/user-attachments/assets/6d4bf8a8-9297-4540-b351-6148f5bf7b27)
 
 ---
 
