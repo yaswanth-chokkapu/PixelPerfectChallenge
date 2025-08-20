@@ -1,6 +1,6 @@
 
 import React from "react";
-import threeDImage from "../assets/3dimage.avif"; // update file extension correctly (.png/.jpg)
+import threeDImage from "../assets/3dimage.avif"; 
 
 const Icons = () => {
   return (
