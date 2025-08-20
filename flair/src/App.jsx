@@ -2,10 +2,11 @@ import BrandsSection from "./components/Brand";
 import ComparisonSection from "./components/FairSection";
 import Footer from "./components/Footer";
 import Hero from "./components/Header";
+import Icons from "./components/Icon";
 import Navbar from "./components/Navbar";
 import VideoPlay from "./components/Videoplay";
 import HeroSection from "./components/models";
-import Icons from "./components/Icons";
+
 
 import Section from "./components/section";
 import Template from "./components/template";
@@ -21,15 +22,12 @@ export const App = () => {
       <VideoPlay/>
       <BrandsSection/>
       <HeroSection />
-     <Icons />
+     <Icons/>
        <Template/>
             <Template2/>
       <Section />
 
       <ComparisonSection/>
-
-
-
       <Footer/>
     </div>
   );
