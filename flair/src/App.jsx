@@ -6,9 +6,10 @@ import Icons from "./components/Icon";
 import Navbar from "./components/Navbar";
 import VideoPlay from "./components/Videoplay";
 import HeroSection from "./components/models";
-
-
 import Section from "./components/section";
+
+
+
 import Template from "./components/template";
 import Template2 from "./components/template2";
 
@@ -25,7 +26,7 @@ export const App = () => {
      <Icons/>
        <Template/>
             <Template2/>
-      <Section />
+      <Section/>
 
       <ComparisonSection/>
       <Footer/>

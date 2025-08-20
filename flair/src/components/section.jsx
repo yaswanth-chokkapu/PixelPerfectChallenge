@@ -1,6 +1,6 @@
 import React from "react";
-import leftImg from "../assets/endimg.webp";   // Left side image (WebP)
-import rightImg from "../assets/endimg2.avif"; // Right side image (AVIF)
+import leftImg from "../assets/endimg.webp";   
+import rightImg from "../assets/endimg2.avif"; 
 
 const Section = () => {
   return (
